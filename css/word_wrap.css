@@ -1,0 +1,33 @@
+.p1 {
+    color: red;
+    width: 11em;
+    border: 1px solid #000000;
+}
+ 
+.p2 {
+    color: blue;
+    width: 11em;
+    border: 1px solid #000000;
+    word-wrap: break-word;
+}
+ 
+.p3 {
+    color: green;
+    width: 11em;
+    border: 1px solid #000000;
+    word-wrap: normal;
+}
+ 
+h1 {
+    color: grey;
+    font-family: calibri;
+    text-shadow: -2px 2px #003366; 
+    text-shadow: 2px 2px 4px #003366;
+}
+ 
+p {
+    color: blueViolet;
+    font-family: myfont;
+    font-size: 15px;
+    text-shadow: 1px 1px #663366;
+}
